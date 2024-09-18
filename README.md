@@ -69,4 +69,4 @@ getch();
 ![Screenshot 2024-09-18 114649](https://github.com/user-attachments/assets/e70224a0-b783-431b-81d1-260f0816a206)
 
 # RESULT:
-### The program to implement a symbol table is executed and the output is verified.
+The program to implement a symbol table is executed and the output is verified.
